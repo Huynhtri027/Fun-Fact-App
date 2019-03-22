@@ -7,7 +7,11 @@ its doesn't require anything
 
 i used Acme, Pacifico and Satisfy fonts 
 
-
+<video width="320" height="240" controls>
+  <source src="https://github.com/BubblyBoy/Fun-Fact-App/blob/master/funfact.mp4" type="video/mp4">
+  
+  Demo of Funfact app
+</video>
 
 
 
