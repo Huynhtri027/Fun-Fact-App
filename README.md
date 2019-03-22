@@ -7,7 +7,7 @@ its doesn't require anything
 
 i used Acme, Pacifico and Satisfy fonts 
 
-  <img src="https://github.com/BubblyBoy/Fun-Fact-App/blob/master/funfact.mp4" />
+  <img src="https://github.com/BubblyBoy/Fun-Fact-App/blob/master/FunFacts.gif" />
 
 
 
