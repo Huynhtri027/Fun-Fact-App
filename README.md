@@ -5,7 +5,7 @@ A new Flutter project.
 Everthing here is just a fun way of implementing some facts to make peoples aware of 
 its doesn't require anything 
 
-i used Acme,Pacifico and Satisfy fonts 
+i used Acme, Pacifico and Satisfy fonts 
 
 
 
