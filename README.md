@@ -1,6 +1,6 @@
 # funfact
 
-A new Flutter project.
+### Show some :heart: and :star: the repo to support the project and follow me
 
 Everthing here is just a fun way of implementing some facts to make peoples aware of 
 its doesn't require anything 
